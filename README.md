@@ -2,7 +2,7 @@
 
 This program is used to model a 4-wheel mobile robot, using URDF (Unified Robot Description Format) and RViz to visualize it, as well as Gazebo to simulate it in real time.
 
-Then there are 3 nodes:
+Then there are 3 nodes written in python:
 -Recovery of Lidar data
 -Obstacle avoidance
 -Moving from one point to another
